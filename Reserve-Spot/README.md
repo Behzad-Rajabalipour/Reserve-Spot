@@ -9,7 +9,7 @@
 - Admin can block, edit, and delete users.
 ## Technologies: 
 - Node.js,
-- Express,
+- Express.js,
 - JavaScript,
 - React,
 - CSS

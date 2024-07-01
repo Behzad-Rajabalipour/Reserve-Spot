@@ -1,6 +1,8 @@
 
-## Build and Run
+## Build
 https://github.com/Behzad-Rajabalipour/Reserve-Spot/assets/115672803/a1ae39e7-ecec-406e-aa2c-ddc2cf59608c
+## Run
+https://github.com/Behzad-Rajabalipour/Reserve-Spot/assets/115672803/d2e97ac7-6889-467a-a25e-7ec9b1c5ed51
 
 ## Features List:
 - User Registration and login
